@@ -37,15 +37,24 @@
 #     d3=c/2
 # else:
 #     d3=(c+1)/2
+# tot=int(d1)+int(d2)+int(d3)
 # print('Desks in classroom a: ',int(d1))
 # print('Desks in classroom b: ',int(d2))
 # print('Desks in classroom c: ',int(d3))
+# print('Total desks needed=',tot)
 
 
 # 6.to print out body mass index
-m=float(input('Enter your mass:'))
-h=float(input('Enter your height in meter:'))
-bmi=m/(h**2)
-print(bmi,(' kg/m^2'))
+# m=float(input('Enter your mass:'))
+# h=float(input('Enter your height in meter:'))
+# bmi=m/(h**2)
+# print(bmi,(' kg/m^2'))
 
 
+#7. Quicker or slower than bus
+a=4
+b=25
+c=(60/25)*4
+print(c+20)
+d=((60/7)*2)+((60/15)*2)
+print(d)

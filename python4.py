@@ -9,4 +9,3 @@ for n in range (2,21):
     if ans==True:
         primes.append(n)
 print(primes)
-print(2%2)

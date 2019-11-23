@@ -24,7 +24,7 @@
 #         print('Key is not present')
 
 #to print key and its value as square of its keys
-#d={}
+# d={}
 # for v in range(1,5):
 #     d[v]=v**2
 # print(d)
